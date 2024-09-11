@@ -1,6 +1,6 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=11i5RMChPXoNPiIIly2jwvc5eh8ZWsvH8)]
 <h1 align="center">Hi 👋, I'm Akash Sadashiv</h1>
-<h3 align="center">I Am Software Developer and Data Analyst from India</h3>
+<h2 align="center">Software Developer and Data Analyst</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsadashiv&label=Profile%20views&color=0e75b6&style=flat" alt="akashsadashiv" /> </p>
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help companies **To build their own Brand**
 
-- 📝 I regularly write articles on [akashks.my.canva.site](akashks.my.canva.site)
+- 📝 I regularly write articles on [https://akashks.my.canva.site](https://akashks.my.canva.site)
 
 - 💬 Ask me about **ML | NLP | Python | Data Analysis | React | Node.js | Next.js | Flutter | UI/UX | MongoDB | Apache Hadoop | Firebase | AWS |**
 

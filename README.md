@@ -1,6 +1,6 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=11i5RMChPXoNPiIIly2jwvc5eh8ZWsvH8)]
+[![MasterHead](https://drive.google.com/file/d/12XtLZ39ZaXFfz5ZZvCpFbe-ACVmmFNIl/view?usp=drivesdk)]
 <h1 align="center">Hi 👋, I'm Akash Sadashiv</h1>
-<h2 align="center">Software Developer and Data Analyst</h2>
+<h3 align="center">I Am Software Developer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsadashiv&label=Profile%20views&color=0e75b6&style=flat" alt="akashsadashiv" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashsadashiv_" target="blank"><img src="https://img.shields.io/twitter/follow/akashsadashiv_?logo=twitter&style=for-the-badge" alt="akashsadashiv_" /></a> </p>
 
-- 🔭 I’m currently working on **Air Quality Index Prediction Using Machine Learning**
+- 🔭 I’m currently working on **AQI Prediction Using ML**
 
 - 🌱 I’m currently learning **Advance Business Intelligence And AI-DRIVEN Technologies That will help to Business growth.**
 

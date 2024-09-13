@@ -1,13 +1,27 @@
-![MasterHead](https://drive.google.com/file/d/1F-TdVn7ZNrbM8HlidaE2_7nEWfAv4F3a/view?usp=drivesdk)
+![MasterHead](https://drive.google.com/uc?export=view&id=1F-TdVn7ZNrbM8HlidaE2_7nEWfAv4F3a)
+
 <h1 align="center">Hi 👋, I'm Akash Sadashiv</h1>
-<h3 align="center">I Am Software Developer and Data Analyst from India</h3>
+
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Softwar Develope and Data Analyst" alt="Typing Animation">
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsadashiv&label=Profile%20views&color=0e75b6&style=flat" alt="akashsadashiv" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akashsadashiv&label=Profile%20views&color=0e75b6&style=flat" alt="akashsadashiv" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsadashiv" alt="akashsadashiv" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsadashiv" alt="akashsadashiv" /></a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/akashsadashiv_" target="blank"><img src="https://img.shields.io/twitter/follow/akashsadashiv_?logo=twitter&style=for-the-badge" alt="akashsadashiv_" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/akashsadashiv_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/akashsadashiv_?logo=twitter&style=for-the-badge" alt="akashsadashiv_" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **AQI Prediction Using ML**
 
@@ -42,4 +56,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsadashiv&show_icons=true&locale=en" alt="akashsadashiv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsadashiv&" alt="akashsadashiv" /></p>
+
 

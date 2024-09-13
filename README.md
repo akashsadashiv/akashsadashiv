@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=12faMTH0K4b8D0Za_btDbtiG21d2csx8i)
+![MasterHead](https://drive.google.com/file/d/1F-TdVn7ZNrbM8HlidaE2_7nEWfAv4F3a/view?usp=drivesdk)
 <h1 align="center">Hi 👋, I'm Akash Sadashiv</h1>
 <h3 align="center">I Am Software Developer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AQI Prediction Using ML**
 
-- 🌱 I’m currently learning **Advance Business Intelligence And AI-DRIVEN Technologies That will help to Business growth.**
+- 🌱 I’m currently learning **Advance Business Intelligence And AI-DRIVEN Technologies That will help Business growth.**
 
 - 👯 I’m looking to collaborate on **Intermediate Machine Learning Projects**
 

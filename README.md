@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Softwar Develope and Data Analyst" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software Developer and Data Analyst" alt="Typing Animation">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

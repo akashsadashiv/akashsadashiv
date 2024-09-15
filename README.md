@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Akash Sadashiv</h1>
 
 <!-- Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software Developer and Data Analyst" alt="Typing Animation">
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+and+Data+Analyst;&font=Fira+Code&center=true&width=500&height=50&duration=4000&color=36BCF7" alt="Typing Animation">
+</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
